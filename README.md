@@ -5,3 +5,5 @@ Notes to the problem:
 - The NumPy module must be used;
 - All data must be read from the file as a NumPy array;
 - The results must be saved in a file.
+
+Description document you will find there https://disk.yandex.ru/d/QkjYW1VNyozrxw
